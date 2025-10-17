@@ -27,15 +27,15 @@ This task focuses on analyzing traffic accident data to uncover patterns related
 # Visuals
 # 1. Accidents by Hour  
 ![Accidents by Hour](images/task4_1.png)
-# 2. Accident Frequency by Category  
+# 2.Average Severity by Weather Condition 
 ![Category Chart](images/task4_2.png)
-# 3. Accident Severity Distribution  
+# 3. Accidents Involving Road Features
 ![Severity Pie Chart](images/task4_3.png)
-# 4. Time Series Trend  
+# 4. Average Severity by Hour
 ![Trend Line](images/task4_4.png)
-# 5. Duration or Distribution Chart  
+# 5. Severity vs Visibility
 ![Duration Chart](images/task4_5.png)
-# 6. Heatmap of Accident Hotspots  
+# 6. Accident Hotspots
 ![Hotspot Heatmap](images/task4_6.png)
 # Key Insight
 Accidents peak sharply around **8 AM**, suggesting a strong correlation with morning commute hours. Weather and visibility also show noticeable influence on accident severity.
