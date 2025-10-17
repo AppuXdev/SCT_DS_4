@@ -45,6 +45,4 @@ Accidents peak sharply around **8 AM**, suggesting a strong correlation with mor
 - Excel for initial inspection
 - GitHub for version control
 
-### 🚀 Next Steps
 
-Explore geospatial mapping of accident hotspots, analyze severity by weather condition, and build predictive models for accident risk.
